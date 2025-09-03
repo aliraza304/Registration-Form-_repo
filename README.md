@@ -1,2 +1,2 @@
 # Registration-Form-_repo
-this is a registration form based on PHP, SQL and DATABASE.
+this is a registration form based on HTML, PHP, SQL and DATABASE.
